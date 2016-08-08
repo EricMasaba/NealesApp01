@@ -1,0 +1,1191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"FIRM",
+				"FIRM_URL"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"FIRM_R",
+				"FIRM_URL"
+			],
+			[
+				"firmN",
+				"firmNumber"
+			],
+			[
+				"SMTP",
+				"SMTP_AUTHPASSWORD"
+			],
+			[
+				"firm",
+				"firmSMTPAuthpassword"
+			],
+			[
+				"SM",
+				"SMTP_AUTHUSERNAME"
+			],
+			[
+				"firmS",
+				"firmSMTPAuthUsername"
+			],
+			[
+				"SMS",
+				"SMS_API_PASSWORD1"
+			],
+			[
+				"__DB",
+				"__DBNAME__"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"date",
+				"dateFounded"
+			],
+			[
+				"SMTP_A",
+				"SMTP_AUTHPASSWORD"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"loan",
+				"loanRepayment"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"YEA",
+				"YEARLY_SUB_0"
+			],
+			[
+				"FIRM_ACC",
+				"FIRM_ACCTNMBR"
+			],
+			[
+				"FIRM_S",
+				"FIRM_SORTCODE"
+			],
+			[
+				"FIRM_A",
+				"FIRM_ADDRESS_1"
+			],
+			[
+				"SMS_",
+				"SMSAPI_PASSWORD"
+			],
+			[
+				"vprint",
+				"vsprintf"
+			],
+			[
+				"orig",
+				"origmessage"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"smsAPI",
+				"smsAPIpassword"
+			],
+			[
+				"sms",
+				"smsAPIusername"
+			],
+			[
+				"dlr",
+				"dlr_url"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ph",
+				"phonenumber"
+			],
+			[
+				"stat",
+				"statement"
+			],
+			[
+				"h",
+				"html_string"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"address",
+				"addressPleb"
+			],
+			[
+				"Park",
+				"parsekit_compile_string"
+			],
+			[
+				"__",
+				"__BASEPATH__"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"topb",
+				"topbox3"
+			],
+			[
+				"r",
+				"repeat-x"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"colu",
+				"columnname"
+			],
+			[
+				"HTTP",
+				"http_request"
+			],
+			[
+				"global",
+				"GLOBALS"
+			],
+			[
+				"connec",
+				"connecDB"
+			],
+			[
+				"SL",
+				"SLUTSKAYA"
+			],
+			[
+				"SLUT",
+				"SLUT_OF_THE_DAY"
+			],
+			[
+				"path",
+				"pathInPieces"
+			],
+			[
+				"REQUE",
+				"REQUEST_URI"
+			],
+			[
+				"PATH",
+				"PATH_TRANSLATED"
+			],
+			[
+				"REMOTE",
+				"REMOTE_USER"
+			],
+			[
+				"RE",
+				"REQUEST_METHOD"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"cust",
+				"customerEmail"
+			],
+			[
+				"or",
+				"originator"
+			],
+			[
+				"custo",
+				"customerName"
+			],
+			[
+				"msg",
+				"msgTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Y/www/_sites/harlexp/__config.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/Y/www/_sites/harlexp/boot.php",
+			"file_size": 4,
+			"file_write_time": 130871443870000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/_sites/nft/index.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/_sites/nft/css/bigvideo.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Y/www/_sites/harlexp/templates/smsPlaceHolders.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Y/www/_sites/harlexp/templates/tablemaker",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<snippet>\n	<content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n	<!-- <tabTrigger>hello</tabTrigger> -->\n	<!-- Optional: Set a scope to limit where the snippet will trigger -->\n	<!-- <scope>source.python</scope> -->\n</snippet>\n",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: bootstrap3"
+			],
+			[
+				"Snippet: font",
+				"Snippet: fonts"
+			],
+			[
+				"Snippet:",
+				"Snippet: bootstrap"
+			],
+			[
+				"Snippet: fon",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/_sites/nft/css/giffgaff.css",
+		"/C/Users/ericmasaba/AppData/Local/Temp/Rar$DIa0.480/index.php",
+		"/C/Users/ericmasaba/AppData/Local/Temp/Rar$DIa0.714/index.php",
+		"/Y/_sites",
+		"/Y/www/_sites/harlexp/index.php",
+		"/Y/public_html/index.php",
+		"/Y/www/_sites/harlexp/deliveryArea.php",
+		"/Y/www/_sites/harlexp/json/2636.geojson",
+		"/Y/www/_sites/harlexp/js/AdministrativeAreas.js",
+		"/Y/www/_sites/harlexp/6rFai7rr.html",
+		"/Y/www/_sites/nealesdrt/__config.php",
+		"/y/www/_sites/nealesdrt/assets/css/styles.css",
+		"/Y/www/_sites/nealesdrt/404.php",
+		"/Y/www/_sites/nealesdrt/revslider.php",
+		"/Y/www/_sites/nealesdrt/.htaccess",
+		"/Y/www/_sites/rydedrt/.htaccess",
+		"/Y/www/_sites/nealesdrt/NealesDRT.sublime-workspace",
+		"/Y/www/_sites/nealesdrt/assets/css/styles.css",
+		"/c/xampp/htdocs/_sites/gvsdrt/css/styles.css",
+		"/c/xampp/htdocs/_sites/gvsdrt/index.php",
+		"/C/xampp/htdocs/_sites/xk7/functions/regexPhoneNumber.txt",
+		"/C/xampp/htdocs/_sites/xk7/functions/phoneNumbers.php",
+		"/C/xampp/htdocs/_sites/xk7/functions/UKphonenumber.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section07.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section06.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/assets/css/styles.css",
+		"/C/xampp/htdocs/_sites/nealesdrt/__config.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/assets/js/scripts.js",
+		"/C/xampp/htdocs/_sites/nealesdrt/assets/js/script.js",
+		"/C/xampp/htdocs/_sites/rydedrt/revslider.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/favicon.ico",
+		"/c/xampp/htdocs/_sites/nealesdrt/section09.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/footer.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/nav_main.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section03.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section02.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/section01a.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section04.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/section10.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/section08.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/section07.php",
+		"/c/xampp/htdocs/_sites/nealesdrt/section03.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/section01.php",
+		"/C/xampp/htdocs/_sites/rnr/__config.php",
+		"/C/xampp/htdocs/_sites/nealesdrt/rydetaxis.sublime-workspace",
+		"/Y/www/_sites/harlexp/mailSetup.php",
+		"/Y/www/_sites/rnr/appSMS.php",
+		"/Y/www/_sites/rnr/error_log",
+		"/Y/www/_sites/harlexp/functions/__classes.php",
+		"/Y/www/_sites/__config.php",
+		"/Y/www/_sites/rnr/contact_me.php",
+		"/C/xampp/htdocs/_sites/rnr/functions/__dbSQLcode01.php",
+		"/C/xampp/htdocs/_sites/rnr/functions/__dbSQLcode02.php",
+		"/Y/www/_sites/harlexp/mail/contact_me.php",
+		"/Y/www/_sites/rnr/functions/__classes.php",
+		"/Y/www/_sites/rnr/mailSetup.php",
+		"/y/www/_sites/rnr/dlrURL.php",
+		"/Y/www/_sites/rnr/templates/mailPlaceHolders.php",
+		"/Y/www/_sites/rnr/dlrURL.php",
+		"/C/xampp/htdocs/_sites/rnr/functions/__getSMSPostVars.php",
+		"/Y/www/_sites/rnr/tbook.php",
+		"/C/xampp/htdocs/_sites/rnr/inboundSMS.php",
+		"/Y/www/_sites/rnr/templates/template001.html",
+		"/Y/www/_sites/rnr/functions/formValidator (2).php",
+		"/Y/www/_sites/rnr/templates/credentials.csv",
+		"/Y/www/_sites/rnr/templates/processQuote.php",
+		"/Y/www/_sites/rnr/templates/tablemaker",
+		"/Y/www/_sites/rnr/templates/pay.html",
+		"/Y/www/_sites/rnr/functions/formValidator.php",
+		"/Y/www/_sites/rnr/sql/CleanUpLogin",
+		"/Y/www/_sites/rnr/functions/__examineMessage.php",
+		"/Y/www/_sites/rnr/functions/__smsRebroadcastAPI.php",
+		"/Y/www/_sites/rnr/functions/__generateUNID (2).php",
+		"/Y/www/_sites/rnr/functions/__getSMSPostVars (2).php",
+		"/Y/www/_sites/rnr/functions/dateRanges.php",
+		"/Y/www/_sites/rnr/functions/mailSetup.php",
+		"/Y/www/_sites/rnr/functions/__smsAlert.php",
+		"/y/www/_sites/rnr/functions/__dbSQLcode01.php",
+		"/Y/www/_sites/rnr/templates/MasterDescription.php",
+		"/Y/www/_sites/rnr/templates/theParser.php",
+		"/C/Users/ericmasaba/OneDrive/Partners/Waproma/AWS_SES_credentials.csv",
+		"/C/Users/ericmasaba/OneDrive/Partners/waproma/AWS_dns-records.CSV",
+		"/Y/www/_sites/rnr/templates/01template.html",
+		"/Y/www/_sites/rnr/Rest Relax Transfers-inboundSMS.log",
+		"/C/xampp/htdocs/_sites/rnr/includes/margot.php",
+		"/Y/www/_sites/harlexp/__config.php",
+		"/C/xampp/htdocs/_sites/rnr/functions/__examineMessage.php",
+		"/C/xampp/htdocs/_sites/rnr/handlers/appSMS.php",
+		"/C/xampp/htdocs/_sites/hudsonbrompton/__config2.php",
+		"/C/xampp/htdocs/_sites/waproma/__config.php",
+		"/C/xampp/htdocs/_sites/hudsonbrompton/__config.php",
+		"/C/xampp/htdocs/_sites/hudsonbrompton/index.php",
+		"/C/xampp/htdocs/_sites/bofa/test/parserCode.php",
+		"/C/xampp/htdocs/_sites/rnr/viewInbound.php",
+		"/C/xampp/htdocs/_sites/bofa/test/classes/__patternMatcherClass.php",
+		"/C/xampp/htdocs/_sites/rnr/functions/__smsAlert.php",
+		"/C/xampp/htdocs/rnr/forms/form5_footer_scripts.php",
+		"/Y/www/index.php",
+		"/Y/www/_sites/rydedrt/revslider.php",
+		"/Y/www/_sites/waproma/section_whoweare.php",
+		"/C/xampp/htdocs/rnr/forms/01modal.php",
+		"/C/xampp/htdocs/clients/gvsdrt/css/styles.css",
+		"/C/xampp/htdocs/rnr/forms/controlBar.php",
+		"/C/xampp/htdocs/clients/gvsdrt/index.php",
+		"/C/xampp/htdocs/rnr/forms/05.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section01.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section05.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section09.php",
+		"/C/xampp/htdocs/_sites/rydedrt/nav_main.php",
+		"/C/xampp/htdocs/_sites/rydedrt/footer.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section07.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section02.php",
+		"/C/xampp/htdocs/_sites/rydedrt/section08.php",
+		"/C/xampp/htdocs/_sites/rydedrt/assets/css/styles.css",
+		"/C/xampp/htdocs/_sites/rydedrt/section03.php",
+		"/C/xampp/htdocs/_sites/rydedrt/footer (2).php",
+		"/C/xampp/htdocs/_sites/rydedrt/pageSetup.php",
+		"/C/xampp/htdocs/_sites/rydedrt/rtindex.php",
+		"/C/xampp/htdocs/_sites/rydedrt/gvs.sublime-workspace",
+		"/C/xampp/htdocs/texxi/css/styles.css",
+		"/C/xampp/htdocs/texxi/section05.php",
+		"/C/xampp/htdocs/texxi/section06.php",
+		"/C/xampp/htdocs/texxi/section02.php",
+		"/C/xampp/htdocs/texxi/section03.php",
+		"/C/xampp/htdocs/texxi/assets/css/styles.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/texxi/section07.php",
+		"/C/xampp/htdocs/texxi/nav_main.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"y:\\www\\_sites\\nealesdrt\\assets\\css",
+			"y:\\www\\_sites\\nealesdrt\\css",
+			"y:\\www\\_sites\\nealesdrt",
+			"<open folders>",
+			"c:\\xampp\\htdocs\\_sites\\gvsdrt\\css",
+			"c:\\xampp\\htdocs\\_sites\\gvsdrt",
+			"c:\\xampp\\htdocs\\_sites\\nealesdrt\\,*.php",
+			"c:\\xampp\\htdocs\\_sites\\nealesdrt\\,section*.php",
+			"c:\\xampp\\htdocs\\_sites\\nealesdrt\\",
+			"c:\\xampp\\htdocs\\_sites\\nealesdrt\\css",
+			"c:\\xampp\\htdocs\\_sites\\nealesdrt",
+			"c:\\xampp\\htdocs\\_sites",
+			"y:\\www\\_sites\\rnr",
+			"C:\\xampp\\htdocs\\_sites\\rnr",
+			"C:\\xampp\\htdocs\\_sites\\",
+			"C:\\xampp\\htdocs\\_sites\\rydedrt\\assets\\css",
+			"<open folders>,*.css",
+			"",
+			"C:\\xampp\\htdocs\\texxi\\assets\\css",
+			"C:\\xampp\\htdocs\\texxi\\assets",
+			"C:\\xampp\\htdocs\\texxi\\css",
+			"<open folders>",
+			"y:\\www\\_sites\\waproma\\",
+			"y:\\www\\_sites\\waproma\\css",
+			"y:\\www\\_sites\\waproma\\",
+			"y:\\www\\_sites\\waproma\\css",
+			"y:\\www\\_sites\\waproma",
+			"<open folders>,*.css",
+			"c:\\xampp\\htdocs\\main\\js",
+			"c:\\xampp\\htdocs\\main\\css",
+			"c:\\xampp\\htdocs\\",
+			"c:\\xampp\\htdocs\\nft\\css",
+			"c:\\xampp\\htdocs",
+			"y:\\www\\_sites\\harlexp\\css",
+			"y:\\www\\_sites\\",
+			"y:\\www\\_sites\\harlexp\\css",
+			"y:\\www\\_sites\\harlexp\\js",
+			"y:\\www\\_sites\\harlexp\\css",
+			"y:\\www\\_clients\\main",
+			"Y:\\www\\main\\",
+			"Y:\\www\\nft",
+			"Y:\\www\\_sites\\nft",
+			"Y:\\www\\_sites\\harlexp\\",
+			"Y:\\www\\_sites\\harlexp\\assets",
+			"Y:\\www\\_sites\\harlexp",
+			"Y:\\www\\_sites\\drmobiles",
+			"Y:\\www\\_clients",
+			"Y:\\www\\_sites\\harlexp",
+			"Y:\\www\\_sites\\",
+			"Y:\\www\\_sites\\drmobile",
+			"c:\\xampp\\htdocs\\,Y:\\www\\_sites",
+			"c:\\xampp\\htdocs\\",
+			"c:\\xampp\\htdocs\\www",
+			"c:\\xampp\\htdocs\\",
+			"y:\\www\\_clients",
+			"y:\\www\\_sites\\",
+			"y:\\www\\_sites\\drmobile",
+			"y:\\www\\",
+			"<open folders>",
+			"Y:\\www\\",
+			"Y:\\www\\_sites\\",
+			"Y:\\www\\_clients\\",
+			"Y:\\www\\_clients\\nflexibus",
+			"Y:\\www\\_clients\\",
+			"C:\\xampp\\htdocs\\nealesflexibus\\",
+			"C:\\xampp\\htdocs\\nealesflexibus\\ab",
+			"C:\\xampp\\htdocs",
+			"<open folders>",
+			"y:\\www\\_clients",
+			"y:\\www\\_sites\\dales",
+			"<open folders>",
+			"Y:\\www\\_clients\\main",
+			"Y:\\www\\rnr\\css",
+			"Y:\\www\\rnr",
+			"Y:\\www\\nf2\\css",
+			"Y:\\www\\",
+			"Y:\\www\\nflexibus,<open files>,<open folders>",
+			"Y:\\www\\nflexibus",
+			"Y:\\www\\",
+			"Y:\\www\\rnr\\, *.css",
+			"Y:\\www\\rnr\\, boot*.css",
+			"Y:\\www\\rnr\\, *.css,*.txt,-boot*.css",
+			"Y:\\www\\rnr\\, *.css,*.txt",
+			"Y:\\www\\rnr\\*.css",
+			"Y:\\www\\rnr\\handlers",
+			"Y:\\www\\nf2",
+			"Y:\\www\\rnr",
+			"C:\\xampp\\htdocs\\nft",
+			",<open folders>,<open files>, -*.log",
+			"-*.log,<open folders>,<open files>",
+			"-*.log",
+			"",
+			"Y:\\www\\nft",
+			"Y:\\www\\main",
+			"c:\\xampp\\htdocs\\nft",
+			"C:\\xampp\\htdocs\\",
+			"<open folders>",
+			"<open folders>,<open files>",
+			"Y:\\www",
+			"<open folders>",
+			"",
+			"y:\\www\\nft\\demo",
+			"y:\\www\\nft\\",
+			"y:\\www\\nft\\aql",
+			"Y:\\www\\,<open folders>",
+			"Y:\\www\\",
+			"Y:\\www\\nft",
+			"<open folders>,"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-3(\\d\\d)px",
+			"-3",
+			"https://s3-eu-west-1.amazonaws.com/ndrt/",
+			"170",
+			"/rnr",
+			"nealesdrt.co.uk\"",
+			"nealesdrt.co.uk",
+			"\"nealesdrt.co.uk\"",
+			"rnr",
+			"s3",
+			"031.png",
+			"flexibus0",
+			".png",
+			"1024/nealesdrt031.png",
+			"nealesdrt",
+			"rnr",
+			"assets/img/1024/",
+			"1024",
+			"#packages",
+			"member packed",
+			"packages",
+			".jpg",
+			".png",
+			"#contact",
+			"css",
+			"�",
+			"family",
+			"$date",
+			"date",
+			"Neales",
+			"Ryde",
+			"ryde",
+			"ipho",
+			"Ryde",
+			"1b1c",
+			"#cb",
+			"1b1c",
+			"navbar",
+			"li ",
+			"nealesdrt",
+			"rydedrt",
+			"043.png",
+			"neales",
+			"ryde",
+			"201",
+			"rydedrt",
+			"vid/",
+			"img/1024/",
+			"flexibus",
+			"restrelax",
+			"vid/",
+			"neales coaches",
+			"abrar",
+			"sms_delivery",
+			"$dlr_url",
+			"using em",
+			"using",
+			"number",
+			"__dbSQL",
+			"constructInsert",
+			"book@",
+			"book",
+			"dr",
+			"constructInsert",
+			"drmobiles",
+			"__",
+			"#about",
+			"assets/img/1024/",
+			"assets/vid/",
+			"#d",
+			"background-c",
+			"colo",
+			"c:\\",
+			"navbar-header",
+			"c:\\",
+			"navbar-header",
+			"#about",
+			"Wight",
+			"well",
+			"../img",
+			"download_bk.jpg",
+			"download",
+			"slides",
+			"src=\"",
+			"assets/img/1024/",
+			"#packages",
+			"#settings",
+			"#download",
+			"section#",
+			"#about",
+			".jpg",
+			"(texxi)(\\d{3})",
+			"(texxi)\\d{3}",
+			"texxi",
+			"video_forest",
+			"http://goodwebtheme.com/previewvideo/",
+			"family-f",
+			"lato",
+			"font-family:",
+			"index.html",
+			"FOUNDED",
+			"factor",
+			"tapbook",
+			"brandy",
+			"mixer",
+			"large",
+			"large_white_bold",
+			".sft",
+			"sft",
+			"Neales",
+			"img-responsive",
+			"firmURL",
+			"get-in-touch",
+			"navbar-brand ",
+			"begin",
+			"waproma-red",
+			"gin",
+			"-bl",
+			"brandy",
+			" mobile",
+			" print",
+			" logo",
+			" web-design",
+			"Logo Design",
+			"twitte",
+			".web-design",
+			".kitchen",
+			"team"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"assets",
+			"\".FIRM_TLD",
+			"https://s3-eu-west-1.amazonaws.com/ndrt/assets/img/1024/",
+			"'",
+			"Neales",
+			"neales",
+			"nealesdrt",
+			"restrelax",
+			"https://s3-eu-west-1.amazonaws.com/rydedrt/assets/img/1024/",
+			"https://s3-eu-west-1.amazonaws.com/rydedrt/assets/vid/",
+			"../assets/img",
+			"#about",
+			"#why",
+			"#corporate",
+			".png",
+			"rydedrt$2",
+			"assets/vid/",
+			" bedroom",
+			" bathroom",
+			" garage",
+			" kitchen",
+			"Garage",
+			"<span>a</span>",
+			"waproma.co.uk",
+			"Waproma",
+			"2015\\/waproma \\($1\\).jpg",
+			"waproma \\($1\\).jpg",
+			"https://s3-eu-west-1.amazonaws.com/waproma2015/",
+			"https://s3-eu-west-1.amazonaws.com/gvsimages/thumbs/020.jpg",
+			"Bespoke Work",
+			"data-transition=\"zoomout\"",
+			"&euro;",
+			"slide2.png",
+			"buy now",
+			"GVS Transport",
+			"col-md-4",
+			"",
+			"/nft/src/",
+			"",
+			"output",
+			"input",
+			"n$1",
+			"",
+			".loan",
+			"<?=$priceEnhanced?>",
+			"Dry",
+			"H-B",
+			"<?=$firmURL?>",
+			"img",
+			"/logo-flat",
+			"",
+			"//texxi.com/_sites/hbrompton",
+			"Hudson Brompton",
+			"Dry Cleaning",
+			"hudsonbrompton.co.uk",
+			"$serviceList",
+			"{{Link$1}}",
+			"$tableDestination",
+			"`masabaer_hudson`",
+			"`masabaer_drmobiles`",
+			"`drmobiles`",
+			"",
+			"payment_report",
+			"\\\"$1\\\"\\,",
+			"\\\"$1\\\"",
+			"",
+			"Harlequin",
+			"",
+			"https://www.texxi.com",
+			"//www.texxi.com/_clients/main/images/neales-n-icon.png",
+			"images/",
+			"url(images",
+			"Texxi",
+			"",
+			"\");",
+			"\")",
+			"@import url(",
+			"/texxi/info/",
+			"includes/",
+			"images/",
+			"@\" . $firmDomain",
+			"rnrtransfers.co.uk",
+			"__FUNCPATH__",
+			"",
+			"\"../",
+			"co",
+			"rnrtransfers",
+			"waproma",
+			"",
+			"./",
+			"cdrnr",
+			"#cdrnr",
+			"#cdrnr $1",
+			"#cdrnr$1",
+			"cdrnr $1",
+			"$1",
+			"$1/",
+			"../images",
+			"",
+			"images/",
+			"$1Museo_Slab_500_2-$2",
+			"\"",
+			"slab1",
+			"slut",
+			"\"",
+			"#logon",
+			".logon",
+			"/",
+			"interiorStyle0",
+			"topBox",
+			"topBoxStyle",
+			"topBox",
+			"buttonBar",
+			".logon",
+			"www.texxi.com/rnr/",
+			"registration",
+			"input[type=\"mobile\"]",
+			"//\\1\\.",
+			"//\\1",
+			"//fonts",
+			"//:fonts",
+			"https://",
+			"//",
+			"//placehold",
+			"nf2",
+			"//",
+			"/nf2/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Y/www/_sites/harlexp/__config.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Y/www/_sites/harlexp/boot.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/_sites/nft/index.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/_sites/nft/css/bigvideo.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Y/www/_sites/harlexp/templates/smsPlaceHolders.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Y/www/_sites/harlexp/templates/tablemaker",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\ericmasaba\\AppData\\Roaming\\Sublime Text 2\\Packages\\User",
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

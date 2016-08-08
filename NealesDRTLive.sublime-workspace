@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"u",
+				"udh_array"
+			],
+			[
+				"messa",
+				"messageChunks"
+			],
+			[
+				"get",
+				"getParameterByName"
+			],
+			[
+				"server",
+				"server_output"
+			],
+			[
+				"or",
+				"originator"
+			],
+			[
+				"api",
+				"api_id"
+			],
+			[
+				"subjc",
+				"subject"
+			],
+			[
+				"FIRM",
+				"FIRM_NAME"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"mu",
+				"multiplicand"
+			],
+			[
+				"mult",
+				"multiplier"
+			],
+			[
+				"botr",
+				"border-style"
+			],
+			[
+				"SM",
+				"SMTP_PORT"
+			],
+			[
+				"__DB",
+				"__DBUSERNAME__"
+			],
+			[
+				"log",
+				"logName"
+			],
+			[
+				"SMTP",
+				"SMTP_AUTHPASSWORD"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"FI",
+				"FIRMDOMAIN"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"item",
+				"itemPrice"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"isA",
+				"is_array"
+			],
+			[
+				"cons",
+				"constructInsert"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"picku",
+				"pickupdate"
+			],
+			[
+				"boo",
+				"bookingForm"
+			],
+			[
+				"emai",
+				"emailaddress"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"test",
+				"testArray"
+			],
+			[
+				"UNID",
+				"unid"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"firm",
+				"firmSMTPAuthUsername"
+			],
+			[
+				"SMTP_AU",
+				"SMTP_AUTHUSERNAME"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"prod",
+				"productCollection"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"a",
+				"arValues"
+			],
+			[
+				"sign",
+				"signupForm"
+			],
+			[
+				"si",
+				"signupForm"
+			],
+			[
+				"include",
+				"include_once"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "book.php",
+			"settings":
+			{
+				"buffer_size": 10454,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 1429 files for \"clickatell\"\n\nY:\\www\\_sites\\nealesdrt\\functions\\smsAlert.php:\n    3      $destination must not be the same as the vector that triggered the script e.g. +44 207 183 1754 or 44 1494 372 860\n    4        Example Code\n    5:       Command: http://api.clickatell.com/http/sendmsg?api_id=xxxx&user=xxxx&password=xxxx&to=xxxx&text=xxxx \n    6:       http://api.clickatell.com/http/sendmsg?user=transitexchange&password=SNSBVePMWGRbSZ&api_id=3544842&from=442071831754&to=447986594137&text=Message+From+CLickatell+API\n    7        Response: Single Message: ID: apimsgid Multiple Messages: ID: apimsgid To: xxxxxx ID: apimsgid To: xxxxxx\n    8      */\n    .\n   25      $encodedMessage = urldecode($message);\n   26      $destination = \"447902509790\";\n   27:     $targetURL = \"https://api.clickatell.com/http/sendmsg\";\n   28      $smsAPIusername = \"RicoMasters2015\";\n   29      $smsAPIpassword = \"4JRrEZpq\";\n\n4 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "templates/neales01.html",
+			"settings":
+			{
+				"buffer_size": 44676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/neales06.html",
+			"settings":
+			{
+				"buffer_size": 41293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!--\n                      <div class=\"ipanel\">\n                        <form>\n                        <span class=\"ilabel\">Begin:</span>\n                            <div class=\"typeahead__container\">\n                                <div class=\"typeahead__field\">\n\n                                    <span class=\"typeahead__query\">\n                                        <input class=\"js-typeahead-input\"\n                                               name=\"oq\"\n                                               type=\"search\"\n                                               autofocus\n                                               autocomplete=\"off\">\n                                    </span>\n\n                                    <span class=\"typeahead__button\">\n                                        <button type=\"submit\">\n                                            <span class=\"typeahead__search-icon\"></span>\n                                        </button>\n                                    </span>\n\n                                </div>\n\n                            </div>\n                            <div class=\"js-result-container\"></div>\n                        </form>\n                      </div>\n-->",
+			"settings":
+			{
+				"buffer_size": 1217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "book02.php",
+			"settings":
+			{
+				"buffer_size": 1805,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "book00.php",
+			"settings":
+			{
+				"buffer_size": 10774,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/neales02.html",
+			"settings":
+			{
+				"buffer_size": 42446,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neoform.php",
+			"settings":
+			{
+				"buffer_size": 1977,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Y/www/_sites/nealesdrt",
+		"/Y/www/_sites/nealesdrt/assets",
+		"/Y/www/_sites/nealesdrt/functions"
+	],
+	"file_history":
+	[
+		"/Y/www/_sites/nealesdrt/__config.php",
+		"/Y/www/_sites/nealesdrt/functions/inboundSMS.php",
+		"/Y/www/_sites/nealesdrt/functions/error_log",
+		"/Y/www/_sites/nealesdrt/go.php",
+		"/Y/www/_sites/nealesdrt/bookingheader.php",
+		"/Y/www/_sites/nealesdrt/__pca.php",
+		"/Y/www/_sites/nealesdrt/bookingHeaderICO.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/book01.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/neoform2.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/neoform.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/__pca.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/js/neoform2.js",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/js/neoform.js",
+		"/Y/www/_sites/nealesdrt/assets/img/brand/neales-narrow.png",
+		"/Y/www/_sites/nealesdrt/!.php",
+		"/Y/www/_sites/nealesdrt/book.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/css/gradients.css",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/smsAlert.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/arbMessage.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/reveal.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/__functions.php",
+		"/C/xampp/htdocs/clients/alpha/nft/aql/__smsAlert2.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/old/smsAlert.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/functions.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/css/reveal.css",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/js/urlParams.js",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/css/common-less.css",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/css/jquery.loadmask.css",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/assets/js/ikit-addon.js",
+		"/Y/www/_sites/nealesdrt/functions/smsAlert.php",
+		"/Y/www/_sites/nealesdrt/__core_functions.php",
+		"/C/xampp/htdocs/clients/alpha/nealesdrt/error.log",
+		"/C/xampp/htdocs/clients/51house/demos/signupform1.html",
+		"/C/xampp/htdocs/clients/alpha/nft/aql/__smsAlertb.php",
+		"/C/xampp/htdocs/clients/alpha/nft/__smsAlert.php",
+		"/C/xampp/htdocs/clients/alpha/nft/aql/__smsAlert.php",
+		"/Y/www/_sites/51house/templates/l09.html",
+		"/Y/www/_sites/51house/templates/l03.html",
+		"/Y/www/_sites/drmobiles/css/rnr-style.css",
+		"/Y/www/_sites/51house/js/listener.js",
+		"/Y/www/_sites/51house/action/contactForm.php",
+		"/Y/www/_sites/51house/assets/js/contactFormListener.js",
+		"/Y/www/_sites/51house/__|contactForm.php",
+		"/Y/www/_sites/51house/section51_contact.php",
+		"/Y/www/_sites/51house/templates/l02.html",
+		"/Y/www/_sites/51house/templates/placeholders1.php",
+		"/Y/www/_sites/51house/functions/testMailer.php",
+		"/Y/www/_sites/51house/__config.php",
+		"/Y/www/_sites/51house/templates/l06.txt",
+		"/Y/www/_sites/51house/templates/l07.txt",
+		"/Y/www/_sites/51house/templates/contactForm.txt",
+		"/Y/www/_sites/51house/templates/contactForm_ph.php",
+		"/Y/www/_sites/51house/book.php",
+		"/Y/www/_sites/51house/templates/l04.html",
+		"/Y/www/_sites/51house/templates/l05.html",
+		"/Y/www/_sites/51house/templates/l08.html",
+		"/Y/www/_sites/51house/templates/l01.html",
+		"/Y/www/_sites/51house/templates/pay.html",
+		"/Y/www/_sites/51house/section51_subscribe.php",
+		"/Y/www/_sites/51house/legacy/../contactForm.php",
+		"/Y/www/_sites/51house/nav.php",
+		"/Y/www/_sites/51house/functions/dateRanges.php",
+		"/Y/www/_sites/51house/section51_book.php",
+		"/Y/www/_sites/51house/footer.php",
+		"/Y/www/_sites/51house/header.php",
+		"/Y/www/_sites/51house/functions/appSMS.php",
+		"/Y/www/_sites/51house/functions/formValidator.php",
+		"/Y/www/_sites/51house/functions/mailSetup.php",
+		"/Y/www/_sites/51house/functions/go2.php",
+		"/Y/www/_sites/51house/functions/grojat.php",
+		"/Y/www/_sites/51house/functions/error_log",
+		"/Y/www/_sites/51house/00.php",
+		"/Y/www/_sites/51house/functions/sendsomemail.php",
+		"/Y/www/_sites/51house/functions/chenling.html",
+		"/Y/www/_sites/51house/functions/bin2.php",
+		"/Y/www/_sites/51house/functions/bin1.php",
+		"/Y/www/_sites/51house/functions/pulldata.php",
+		"/Y/www/_sites/51house/functions/__dbSQLcode02.php",
+		"/Y/www/_sites/51house/functions/__examineMessage.php",
+		"/Y/www/_sites/51house/functions/__generateUNID.php",
+		"/Y/www/_sites/51house/functions/__getSMSPostVars.php",
+		"/Y/www/_sites/51house/functions/__smsAlert.php",
+		"/Y/www/_sites/51house/contactForm.php",
+		"/Y/www/_sites/51house/functions/__dbSQLcode01.php",
+		"/Y/www/_sites/51house/functions/inbSMS.php",
+		"/Y/www/_sites/51house/appSMS.php",
+		"/Y/www/_sites/51house/vedic03.html",
+		"/Y/www/_sites/51house/functions/inboundSMS.php",
+		"/Y/www/_sites/51house/templates/tables01.sql",
+		"/Y/www/_sites/51house/templates/tablemaker",
+		"/Y/www/_sites/51house/templates/bookingForm_ph.php",
+		"/Y/www/_sites/51house/templates/smsAlert.php",
+		"/Y/www/_sites/51house/inboundSMS.php",
+		"/Y/www/_sites/51house/section51_folio.php",
+		"/Y/www/_sites/waproma/index.php",
+		"/C/Users/ericmasaba/Documents/Neales/texxi/image/1.ico",
+		"/Y/www/_sites/51house/section51_about.php",
+		"/Y/www/_sites/51house/section51_where.php",
+		"/Y/www/_sites/waproma/__config.php",
+		"/Y/www/_sites/51house/css/main.css",
+		"/Y/www/_sites/51house/section51_locations.php",
+		"/Y/www/_sites/51house/dave.php",
+		"/C/xampp/htdocs/clients/51house/localization/da.js",
+		"/Y/www/_sites/51house/chenling.sublime-project",
+		"/Y/www/_sites/51house/error_log",
+		"/C/Users/ericmasaba/Documents/GitHub/chenling/jQuery-Plugins/numeric/jquery.numeric.js",
+		"/Y/www/_sites/51house/section_contact.php",
+		"/Y/www/.htaccess",
+		"/Y/www/_sites/51house/section_who.php",
+		"/Y/www/_sites/51house/section_about.php",
+		"/Y/www/_sites/51house/.htaccess",
+		"/Y/www/_sites/51house/error.php",
+		"/Y/www/_sites/51house/section_services.php",
+		"/Y/www/_sites/51house/questionnaire.php",
+		"/Y/www/_sites/51house/section_whoweare.php",
+		"/Y/www/_sites/51house/section_51where.php",
+		"/Y/www/_sites/51house/assets/js/numOnly.js",
+		"/Y/www/_sites/51house/assets/js/numeric.js",
+		"/Y/www/_sites/51house/welcome.php",
+		"/Y/www/_sites/51house/webhook.php",
+		"/Y/www/_sites/51house/extract.php",
+		"/Y/www/_sites/51house/sue.php",
+		"/Y/www/_sites/51house/section_book.php",
+		"/Y/www/_sites/51house/section_intro.php",
+		"/Y/www/_sites/51house/section_signup.php",
+		"/Y/www/_sites/chenling/assets/js/nonumbers.js",
+		"/Y/www/_sites/chenling/.htaccess",
+		"/Y/www/_sites/51house/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"y:\\www\\_sites\\51house",
+			"C:\\xampp\\htdocs\\clients\\chenling\\",
+			"Y:\\www\\_sites\\chenling",
+			"Y:\\www\\_sites\\hudsonbrompton\\css",
+			"Y:\\www\\_sites\\",
+			"Y:\\www\\_sites\\hudsonbrompton\\",
+			"Y:\\www\\_sites\\hudsonbrompton\\js",
+			"Y:\\www\\_sites\\hudsonbrompton\\css",
+			"Y:\\www\\_sites\\hudsonbrompton\\js",
+			"Y:\\www\\_sites\\hudsonbrompton",
+			"Y:\\www\\_sites\\gvsdrt\\payment",
+			"payment",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"clickatell",
+			"Welcome to Neales",
+			"title",
+			"neales06",
+			"SMTP_A",
+			"using ",
+			"using em",
+			"06.h",
+			"SMTP_PORT",
+			"SMTP",
+			"FIRM_NAME",
+			"FIRM__NAME",
+			"$db",
+			"$dbname",
+			"$dbna",
+			"abrar",
+			"connect",
+			"description",
+			"manage acc",
+			"Neales F",
+			"buy a ",
+			"font-family",
+			"font",
+			"taxi is",
+			"img",
+			"begin",
+			"      <script src=\"assets/js/nealesdest01.js\"></script>",
+			"easyjet-",
+			"jque",
+			"?rev=tmp1459354847879",
+			"body",
+			"/head",
+			"head",
+			"url",
+			"import",
+			"url",
+			"/m2p-ej/static/m2p-ej/mweb/",
+			"/m2p-ej/static/m2p-ej/mweb/css/",
+			"/m2p-ej/static/m2p-ej/mweb/js/",
+			"/m2p-ej/static/m2core/webkit/",
+			"/m2p-ej/static/m2p-ej/mweb/js/",
+			"subscribe",
+			"contact_me.php",
+			"mail_",
+			"agent",
+			"test_u",
+			"sendButton",
+			"automated",
+			"FIRM_EMAIL_BOOKING",
+			"fontawesome",
+			"\"js/",
+			"css",
+			"js/",
+			"\\\"js/",
+			"\"js/",
+			"subsc",
+			"$contact",
+			"contact",
+			"cont",
+			"become dili",
+			"Contact",
+			"C0ntact",
+			"where",
+			"who",
+			"where",
+			"FIRMDOMAIN",
+			"151329",
+			"015132",
+			"alice",
+			"com",
+			"crede",
+			"health sa",
+			"nightclub",
+			"health s",
+			"rich",
+			"compl",
+			"henders",
+			"film",
+			"the film",
+			"images",
+			"css",
+			"js/",
+			"js",
+			"the enter",
+			"src=",
+			"img src",
+			",&quot;blurred&quot;:",
+			"g&quot;",
+			"&quot;/~/",
+			":&q",
+			"url",
+			"insta",
+			"yourbank",
+			"url",
+			"yourbank",
+			"your",
+			"your_",
+			"panel",
+			"assets",
+			"eot",
+			"panel-homepage contrast",
+			"MapPins",
+			"mapPins/1.png",
+			"mappins/1.png",
+			"</A>",
+			"baseurl",
+			"LozengeFramework",
+			"js",
+			"lozenge",
+			"assets/media/images/",
+			"mediaimages",
+			"/atom/",
+			"//offer//",
+			"what we offer",
+			"/~/media/atom/images/",
+			"/home page/",
+			"media",
+			"services",
+			"hsadd",
+			"lozenge",
+			"helper",
+			"lozenge",
+			"lozen",
+			"/what we offer/",
+			"/~/media/atom/images/home page",
+			"home page",
+			"../assets/fonts",
+			"'/assets"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"assets/",
+			"assets/css/",
+			"assets/",
+			"assets/js/",
+			"mc-embedded-subscribe",
+			"\"assets/js/",
+			"FIRM_DOMAIN",
+			"",
+			"g\\n",
+			"/~/",
+			"\\n&quot;/~/",
+			"</A><BR>",
+			"assets/img/media/",
+			"media/images",
+			"",
+			"/offer/",
+			"assets/img/media/",
+			"/homepage/",
+			"chenling",
+			"/offer/",
+			"assets/img/media/homepage",
+			"../fonts",
+			"'../assets",
+			"'./assets",
+			"assets",
+			"www.nambuya.co.uk",
+			"https://fonts",
+			"",
+			"'",
+			"name=\"character\"",
+			"checkbox",
+			"",
+			"options",
+			"finish",
+			"description",
+			"options",
+			"source",
+			"items",
+			"name=\"finishOptions\"",
+			"domains",
+			"arbitraryData",
+			"$person",
+			"person",
+			"contactForm",
+			"\\\\\"",
+			"\\\"",
+			"'",
+			"\"finish\"",
+			"\\\"pt$1",
+			"\\\"pt%1",
+			"paymentType",
+			"\",\"",
+			",",
+			"$customerMessage",
+			"$randomDatum",
+			"$randomDatum[",
+			"$randomTuple",
+			"id=\"con-",
+			"",
+			"inc",
+			"<?=$firmName?>",
+			"img",
+			"#wrapper",
+			"#register",
+			"https://www.texxi.com/_sites/gvsdrt/img/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "Y:\\www\\_sites\\nealesdrt"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "book.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										272,
+										282
+									],
+									[
+										379,
+										389
+									],
+									[
+										519,
+										529
+									],
+									[
+										802,
+										812
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								942,
+								942
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/neales01.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/neales06.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "book02.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1046,
+								444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "book00.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/neales02.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40457,
+								40457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22030.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "neoform.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1622,
+								1622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

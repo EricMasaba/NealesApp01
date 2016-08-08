@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Neoform 3 | JQuery</title>
+	</head>
+	<body>
+		<form id="form-country_v1" name="form-country_v1">
+			    <div class="typeahead__container">
+			        <div class="typeahead__field">
+			 
+			            <span class="typeahead__query">
+			                <input class="js-typeahead-country_v1" name="country_v1[query]" type="search" placeholder="Search" autocomplete="off">
+			            </span>
+			            <span class="typeahead__button">
+			                <button type="submit">
+			                    <i class="typeahead__search-icon"></i>
+			                </button>
+			            </span>
+			 
+			        </div>
+			    </div>
+			</form>
+	</body>
+</html>
